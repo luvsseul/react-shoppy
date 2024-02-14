@@ -4,7 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand: '#F96162',
+        brand: '#877d63',
+      },
+      height: {
+        '50': '40rem',
       },
       backgroundImage: {
         banner: `url('../public/images/banner.jpg')`
